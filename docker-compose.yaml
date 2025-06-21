@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  game-server:
+    build: .
+    container_name: godot_fastapi_game
+    ports:
+      - "7009:7009"
+    volumes:
+      - .:/app
+    restart: always
