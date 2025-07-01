@@ -1,5 +1,10 @@
 # 🚢 Container Hunt
 
+### THIS IS DEPLOYED FRONTEND ONLY - Actual game engine code is in this repo: 
+
+https://github.com/foo290/container_hunt_ge
+
+
 **Container Hunt** is a 2D arcade-style game that I built using the **Godot Engine** coz, well... curiosity.
 
 So basically you have to control a Maersk ship that rides over routes and navigates routes to **collect containers** while avoiding pirates.
